@@ -1,0 +1,151 @@
+city,edu_score
+"Ann Arbor, MI",94.02
+"San Jose-Sunnyvale-Santa Clara, CA",82.60
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",82.06
+"San Francisco-Oakland-Berkeley, CA",80.74
+"Madison, WI",80.06
+"Boston-Cambridge-Newton, MA-NH",78.80
+"Durham-Chapel Hill, NC",77.31
+"Seattle-Tacoma-Bellevue, WA",75.28
+"Austin-Round Rock-Georgetown, TX",72.54
+"Provo-Orem, UT",72.48
+"Raleigh-Cary, NC",72.33
+"Bridgeport-Stamford-Norwalk, CT",72.27
+"Colorado Springs, CO",71.62
+"Denver-Aurora-Lakewood, CO",70.53
+"Trenton-Princeton, NJ",69.69
+"Portland-Vancouver-Hillsboro, OR-WA",69.63
+"Portland-South Portland, ME",69.36
+"Tallahassee, FL",68.93
+"Minneapolis-St. Paul-Bloomington, MN-WI",67.90
+"San Diego-Chula Vista-Carlsbad, CA",67.37
+"Baltimore-Columbia-Towson, MD",66.58
+"Albany-Schenectady-Troy, NY",66.24
+"Lexington-Fayette, KY",64.87
+"Huntsville, AL",64.86
+"New York-Newark-Jersey City, NY-NJ-PA",64.69
+"Atlanta-Sandy Springs-Alpharetta, GA",64.65
+"Hartford-East Hartford-Middletown, CT",64.14
+"Urban Honolulu, HI",62.13
+"Lansing-East Lansing, MI",61.67
+"Asheville, NC",61.38
+"Santa Rosa-Petaluma, CA",61.34
+"Chicago-Naperville-Elgin, IL-IN-WI",61.17
+"Pittsburgh, PA",60.91
+"Manchester-Nashua, NH",60.69
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",60.59
+"Eugene-Springfield, OR",60.54
+"Richmond, VA",60.34
+"Kansas City, MO-KS",60.27
+"Rochester, NY",60.21
+"Salt Lake City, UT",60.18
+"Omaha-Council Bluffs, NE-IA",60.18
+"Virginia Beach-Norfolk-Newport News, VA-NC",59.55
+"New Haven-Milford, CT",58.97
+"Columbus, OH",58.76
+"Nashville-Davidson--Murfreesboro--Franklin, TN",58.53
+"Spokane-Spokane Valley, WA",58.53
+"Naples-Marco Island, FL",58.51
+"St. Louis, MO-IL",58.49
+"Sacramento-Roseville-Folsom, CA",58.12
+"Tucson, AZ",58.05
+"Charlotte-Concord-Gastonia, NC-SC",57.73
+"Albuquerque, NM",57.45
+"Worcester, MA-CT",57.29
+"Anchorage, AK",57.03
+"Des Moines-West Des Moines, IA",56.79
+"Milwaukee-Waukesha, WI",56.75
+"Charleston-North Charleston, SC",56.69
+"Boise City, ID",56.44
+"Cincinnati, OH-KY-IN",56.02
+"Buffalo-Cheektowaga, NY",55.63
+"Syracuse, NY",55.55
+"Orlando-Kissimmee-Sanford, FL",55.53
+"Springfield, MA",55.27
+"Reno, NV",55.12
+"Columbia, SC",55.04
+"Santa Maria-Santa Barbara, CA",54.96
+"North Port-Sarasota-Bradenton, FL",54.66
+"Dayton-Kettering, OH",54.58
+"Fayetteville-Springdale-Rogers, AR",54.43
+"Grand Rapids-Kentwood, MI",54.41
+"Jacksonville, FL",54.08
+"Oxnard-Thousand Oaks-Ventura, CA",53.73
+"Dallas-Fort Worth-Arlington, TX",53.73
+"Indianapolis-Carmel-Anderson, IN",53.67
+"Akron, OH",53.20
+"Palm Bay-Melbourne-Titusville, FL",53.11
+"Little Rock-North Little Rock-Conway, AR",52.64
+"Detroit-Warren-Dearborn, MI",52.54
+"Miami-Fort Lauderdale-Pompano Beach, FL",52.36
+"Phoenix-Mesa-Chandler, AZ",52.27
+"Birmingham-Hoover, AL",51.72
+"Savannah, GA",51.70
+"Tampa-St. Petersburg-Clearwater, FL",51.39
+"Oklahoma City, OK",51.29
+"Cleveland-Elyria, OH",51.27
+"Harrisburg-Carlisle, PA",51.22
+"Ogden-Clearfield, UT",50.89
+"Wichita, KS",50.64
+"Providence-Warwick, RI-MA",50.63
+"Louisville/Jefferson County, KY-IN",50.40
+"Knoxville, TN",50.26
+"Los Angeles-Long Beach-Anaheim, CA",50.25
+"Houston-The Woodlands-Sugar Land, TX",50.24
+"Peoria, IL",49.33
+"Springfield, MO",48.90
+"Jackson, MS",48.67
+"Greensboro-High Point, NC",48.43
+"Pensacola-Ferry Pass-Brent, FL",48.42
+"Greenville-Anderson, SC",48.23
+"Allentown-Bethlehem-Easton, PA-NJ",47.94
+"Montgomery, AL",47.78
+"New Orleans-Metairie, LA",47.55
+"Toledo, OH",47.36
+"Fort Wayne, IN",46.94
+"San Antonio-New Braunfels, TX",46.31
+"Memphis, TN-MS-AR",46.16
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",46.04
+"Tulsa, OK",45.84
+"Cape Coral-Fort Myers, FL",45.80
+"Davenport-Moline-Rock Island, IA-IL",45.64
+"Winston-Salem, NC",45.36
+"Fayetteville, NC",45.26
+"Killeen-Temple, TX",43.90
+"Chattanooga, TN-GA",43.83
+"Baton Rouge, LA",43.76
+"Salem, OR",43.22
+"Salisbury, MD-DE",42.91
+"Port St. Lucie, FL",42.82
+"Vallejo, CA",42.17
+"Las Vegas-Henderson-Paradise, NV",41.62
+"Augusta-Richmond County, GA-SC",40.86
+"Scranton--Wilkes-Barre, PA",40.07
+"Flint, MI",39.81
+"Canton-Massillon, OH",39.80
+"Gulfport-Biloxi, MS",39.22
+"Deltona-Daytona Beach-Ormond Beach, FL",39.19
+"Shreveport-Bossier City, LA",38.92
+"York-Hanover, PA",38.73
+"Lancaster, PA",38.69
+"Rockford, IL",37.10
+"Mobile, AL",36.59
+"Reading, PA",36.26
+"Youngstown-Warren-Boardman, OH-PA",35.73
+"Lafayette, LA",35.22
+"El Paso, TX",34.58
+"Huntington-Ashland, WV-KY-OH",34.05
+"Riverside-San Bernardino-Ontario, CA",33.23
+"Lakeland-Winter Haven, FL",32.22
+"Beaumont-Port Arthur, TX",29.60
+"Fresno, CA",29.14
+"Corpus Christi, TX",28.99
+"Ocala, FL",28.63
+"Salinas, CA",27.88
+"Stockton, CA",26.17
+"Hickory-Lenoir-Morganton, NC",25.39
+"Modesto, CA",20.41
+"Bakersfield, CA",15.81
+"McAllen-Edinburg-Mission, TX",14.14
+"Brownsville-Harlingen, TX",10.10
+"Visalia, CA",9.93

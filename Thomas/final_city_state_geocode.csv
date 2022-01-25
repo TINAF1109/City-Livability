@@ -1,0 +1,101 @@
+city_name,state_name,state_abbr,lat,lng
+New York,New York,NY,40.730646,-73.986614
+Los Angeles,California,CA,34.143916,-118.761144
+Chicago,Illinois,IL,41.875555,-87.624421
+Houston,Texas,TX,29.758938,-95.367697
+Phoenix,Arizona,AZ,33.448587,-112.077346
+Philadelphia,Pennsylvania,PA,39.952399,-75.16359
+San Antonio,Texas,TX,29.4246,-98.49514
+San Diego,California,CA,32.717421,-117.162771
+Dallas,Texas,TX,32.776272,-96.796856
+San Jose,California,CA,37.336191,-121.890583
+Austin,Texas,TX,30.271129,-97.743699
+Jacksonville,Florida,FL,30.332184,-81.655651
+Fort Worth,Texas,TX,32.753177,-97.332746
+Columbus,Ohio,OH,39.96226,-83.000706
+Charlotte,North Carolina,NC,35.227087,-80.843127
+San Francisco,California,CA,37.779281,-122.419236
+Indianapolis,Indiana,IN,39.768333,-86.15835
+Seattle,Washington,WA,47.603832,-122.330062
+Denver,Colorado,CO,39.739154,-104.984703
+Washington,District of Columbia,DC,38.894955,-77.036646
+Boston,Massachusetts,MA,42.360253,-71.058291
+El Paso,Texas,TX,31.760037,-106.487287
+Nashville,Tennessee,TN,36.16223,-86.774353
+Detroit,Michigan,MI,42.348664,-83.056737
+Oklahoma City,Oklahoma,OK,35.472989,-97.517054
+Portland,Oregon,OR,45.520247,-122.674195
+Las Vegas,Nevada,NV,36.166286,-115.149225
+Memphis,Tennessee,TN,35.149022,-90.051628
+Louisville,Kentucky,KY,38.254238,-85.759407
+Baltimore,Maryland,MD,39.290882,-76.610759
+Milwaukee,Wisconsin,WI,43.034993,-87.922497
+Albuquerque,New Mexico,NM,35.084103,-106.650985
+Tucson,Arizona,AZ,32.221892,-110.926235
+Fresno,California,CA,36.739442,-119.784831
+Mesa,Arizona,AZ,34.270015,-114.082445
+Sacramento,California,CA,38.581572,-121.4944
+Atlanta,Georgia,GA,33.749099,-84.390185
+Kansas City,Missouri,MO,39.100105,-94.578142
+Colorado Springs,Colorado,CO,38.833958,-104.825348
+Omaha,Nebraska,NE,41.258732,-95.937873
+Raleigh,North Carolina,NC,35.780398,-78.639099
+Miami,Florida,FL,25.774266,-80.193659
+Long Beach,California,CA,33.785389,-118.158049
+Virginia Beach,Virginia,VA,36.795303,-76.050925
+Oakland,California,CA,37.804456,-122.271356
+Minneapolis,Minnesota,MN,44.9773,-93.265469
+Tulsa,Oklahoma,OK,36.155681,-95.992911
+Tampa,Florida,FL,27.94776,-82.458444
+Arlington,Texas,TX,32.756346,-97.068753
+New Orleans,Louisiana,LA,29.949932,-90.070116
+Wichita,Kansas,KS,37.692236,-97.337545
+Bakersfield,California,CA,35.373871,-119.019464
+Cleveland,Ohio,OH,41.505161,-81.693445
+Aurora,Colorado,CO,39.729432,-104.83192
+Anaheim,California,CA,33.834752,-117.911732
+Urban Honolulu,Hawaii,HI,39.78373,-100.445882
+Santa Ana,California,CA,14.549038,121.116997
+Riverside,California,CA,33.953355,-117.396162
+Corpus Christi,Texas,TX,27.800254,-97.395574
+Lexington,Kentucky,KY,38.046407,-84.497039
+Henderson,Nevada,NV,36.039146,-114.981923
+Stockton,California,CA,37.957702,-121.29078
+St. Paul,Minnesota,MN,44.950404,-93.101503
+Cincinnati,Ohio,OH,39.101454,-84.51246
+St. Louis,Missouri,MO,38.627273,-90.197889
+Pittsburgh,Pennsylvania,PA,40.441694,-79.990086
+Greensboro,North Carolina,NC,36.072636,-79.791975
+Lincoln,Nebraska,NE,40.8,-96.667821
+Anchorage,Alaska,AK,61.216313,-149.894852
+Plano,Texas,TX,33.013676,-96.69251
+Orlando,Florida,FL,28.54211,-81.379039
+Irvine,California,CA,33.685697,-117.825982
+Newark,New Jersey,NJ,40.735657,-74.172367
+Durham,North Carolina,NC,35.996653,-78.901805
+Chula Vista,California,CA,32.640054,-117.084195
+Toledo,Ohio,OH,41.678675,-83.512728
+Fort Wayne,Indiana,IN,41.07999,-85.138601
+St. Petersburg,Florida,FL,27.77038,-82.669508
+Laredo,Texas,TX,27.506099,-99.508898
+Jersey City,New Jersey,NJ,40.728158,-74.077642
+Chandler,Arizona,AZ,33.306713,-111.840849
+Madison,Wisconsin,WI,43.074761,-89.383761
+Lubbock,Texas,TX,33.577863,-101.855166
+Scottsdale,Arizona,AZ,33.509122,-111.899236
+Reno,Nevada,NV,39.52927,-119.813674
+Buffalo,New York,NY,42.886717,-78.878392
+Gilbert,Arizona,AZ,33.352826,-111.789024
+Glendale,Arizona,AZ,33.558997,-112.404683
+North Las Vegas,Nevada,NV,36.200837,-115.112096
+Winston,North Carolina,NC,36.106031,-80.245136
+Chesapeake,Virginia,VA,36.718371,-76.24668
+Norfolk,Virginia,VA,36.888993,-76.248162
+Fremont,California,CA,37.54827,-121.988572
+Garland,Texas,TX,32.912624,-96.638883
+Irving,Texas,TX,32.829518,-96.944218
+Hialeah,Florida,FL,25.857596,-80.278106
+Richmond,Virginia,VA,37.538509,-77.43428
+Boise City,Idaho,ID,43.598838,-116.243255
+Spokane,Washington,WA,47.657943,-117.421226
+Baton Rouge,Louisiana,LA,30.44596,-91.18738

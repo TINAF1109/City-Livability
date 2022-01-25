@@ -1,0 +1,101 @@
+city_name,state_name,state_abbr,walk_score,bike_score
+New York,New York,NY,100.0,93.0
+Los Angeles,California,CA,55.0,51.0
+Chicago,Illinois,IL,94.0,85.0
+Houston,Texas,TX,84.0,64.0
+Phoenix,Arizona,AZ,90.0,58.0
+Philadelphia,Pennsylvania,PA,99.0,80.0
+San Antonio,Texas,TX,96.0,76.0
+San Diego,California,CA,98.0,81.0
+Dallas,Texas,TX,91.0,69.0
+San Jose,California,CA,98.0,92.0
+Austin,Texas,TX,92.0,89.0
+Jacksonville,Florida,FL,88.0,65.0
+Fort Worth,Texas,TX,76.0,82.0
+Columbus,Ohio,OH,78.0,82.0
+Charlotte,North Carolina,NC,95.0,62.0
+San Francisco,California,CA,98.0,99.0
+Indianapolis,Indiana,IN,97.0,97.0
+Seattle,Washington,WA,98.0,66.0
+Denver,Colorado,CO,98.0,96.0
+Washington,District of Columbia,DC,67.0,74.0
+Boston,Massachusetts,MA,99.0,86.0
+El Paso,Texas,TX,95.0,52.0
+Nashville,Tennessee,TN,89.0,77.0
+Detroit,Michigan,MI,91.0,95.0
+Oklahoma City,Oklahoma,OK,80.0,81.0
+Portland,Oregon,OR,99.0,95.0
+Las Vegas,Nevada,NV,79.0,60.0
+Memphis,Tennessee,TN,83.0,84.0
+Louisville,Kentucky,KY,88.0,79.0
+Baltimore,Maryland,MD,96.0,81.0
+Milwaukee,Wisconsin,WI,66.0,60.0
+Albuquerque,New Mexico,NM,89.0,91.0
+Tucson,Arizona,AZ,77.0,93.0
+Fresno,California,CA,87.0,87.0
+Mesa,Arizona,AZ,,
+Sacramento,California,CA,96.0,99.0
+Atlanta,Georgia,GA,83.0,50.0
+Kansas City,Missouri,MO,88.0,67.0
+Colorado Springs,Colorado,CO,69.0,86.0
+Omaha,Nebraska,NE,92.0,65.0
+Raleigh,North Carolina,NC,92.0,94.0
+Miami,Florida,FL,98.0,83.0
+Long Beach,California,CA,89.0,59.0
+Virginia Beach,Virginia,VA,6.0,32.0
+Oakland,California,CA,100.0,89.0
+Minneapolis,Minnesota,MN,96.0,86.0
+Tulsa,Oklahoma,OK,70.0,63.0
+Tampa,Florida,FL,90.0,69.0
+Arlington,Texas,TX,24.0,35.0
+New Orleans,Louisiana,LA,97.0,90.0
+Wichita,Kansas,KS,63.0,74.0
+Bakersfield,California,CA,78.0,54.0
+Cleveland,Ohio,OH,86.0,60.0
+Aurora,Colorado,CO,31.0,55.0
+Anaheim,California,CA,93.0,61.0
+Urban Honolulu,Hawaii,HI,,25.0
+Santa Ana,California,CA,55.0,
+Riverside,California,CA,90.0,73.0
+Corpus Christi,Texas,TX,55.0,46.0
+Lexington,Kentucky,KY,97.0,84.0
+Henderson,Nevada,NV,62.0,66.0
+Stockton,California,CA,90.0,66.0
+St. Paul,Minnesota,MN,83.0,43.0
+Cincinnati,Ohio,OH,97.0,57.0
+St. Louis,Missouri,MO,92.0,59.0
+Pittsburgh,Pennsylvania,PA,89.0,65.0
+Greensboro,North Carolina,NC,80.0,52.0
+Lincoln,Nebraska,NE,62.0,70.0
+Anchorage,Alaska,AK,84.0,78.0
+Plano,Texas,TX,41.0,59.0
+Orlando,Florida,FL,95.0,83.0
+Irvine,California,CA,58.0,87.0
+Newark,New Jersey,NJ,94.0,65.0
+Durham,North Carolina,NC,95.0,76.0
+Chula Vista,California,CA,91.0,60.0
+Toledo,Ohio,OH,22.0,39.0
+Fort Wayne,Indiana,IN,74.0,70.0
+St. Petersburg,Florida,FL,69.0,76.0
+Laredo,Texas,TX,93.0,57.0
+Jersey City,New Jersey,NJ,87.0,73.0
+Chandler,Arizona,AZ,78.0,65.0
+Madison,Wisconsin,WI,97.0,92.0
+Lubbock,Texas,TX,73.0,55.0
+Scottsdale,Arizona,AZ,34.0,63.0
+Reno,Nevada,NV,95.0,78.0
+Buffalo,New York,NY,91.0,87.0
+Gilbert,Arizona,AZ,71.0,69.0
+Glendale,Arizona,AZ,,25.0
+North Las Vegas,Nevada,NV,64.0,57.0
+Winston,North Carolina,NC,72.0,62.0
+Chesapeake,Virginia,VA,42.0,48.0
+Norfolk,Virginia,VA,42.0,44.0
+Fremont,California,CA,87.0,75.0
+Garland,Texas,TX,72.0,56.0
+Irving,Texas,TX,40.0,42.0
+Hialeah,Florida,FL,73.0,54.0
+Richmond,Virginia,VA,88.0,73.0
+Boise City,Idaho,ID,68.0,74.0
+Spokane,Washington,WA,93.0,77.0
+Baton Rouge,Louisiana,LA,65.0,56.0

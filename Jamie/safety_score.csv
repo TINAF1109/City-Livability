@@ -1,0 +1,183 @@
+city,safety_score
+"Columbia, MD",87.83
+"South Burlington, VT",85.04
+"Nashua, NH",84.38
+"Yonkers, NY",84.04
+"Madison, WI",83.26
+"Portland, ME",82.98
+"Warwick, RI",82.36
+"Raleigh, NC",82.27
+"Burlington, VT",81.83
+"Winston-Salem, NC",81.07
+"Manchester, NH",80.97
+"Gilbert, AZ",80.78
+"Durham, NC",80.56
+"Salem, OR",80.46
+"Fremont, CA",80.43
+"Plano, TX",80.22
+"Buffalo, NY",80.1
+"Worcester, MA",80.07
+"Laredo, TX",80.05
+"Irvine, CA",79.98
+"Virginia Beach, VA",79.94
+"Lincoln, NE",79.76
+"Chandler, AZ",79.71
+"Scottsdale, AZ",79.38
+"Aurora, IL",79.05
+"Brownsville, TX",78.99
+"Rochester, NY",78.95
+"Fargo, ND",78.89
+"Charlotte, NC",78.23
+"Bismarck, ND",78.17
+"Sioux Falls, SD",78.09
+"Peoria, AZ",78.07
+"Bridgeport, CT",77.98
+"Las Cruces, NM",77.96
+"Mesa, AZ",77.92
+"Glendale, CA",77.81
+"Omaha, NE",77.8
+"Tempe, AZ",77.74
+"Providence, RI",77.59
+"Henderson, NV",77.54
+"Salt Lake City, UT",77.37
+"Lewiston, ME",77.35
+"Vancouver, WA",77.32
+"Cheyenne, WY",77.2
+"Pembroke Pines, FL",77.2
+"Chesapeake, VA",77.01
+"Boise, ID",76.86
+"Huntington Beach, CA",76.76
+"Santa Rosa, CA",76.71
+"Santa Clarita, CA",76.67
+"Grand Rapids, MI",76.66
+"Fort Wayne, IN",76.64
+"New Haven, CT",76.53
+"Boston, MA",76.49
+"San Jose, CA",76.48
+"Overland Park, KS",76.39
+"San Diego, CA",76.37
+"Chula Vista, CA",76.32
+"Cedar Rapids, IA",76.27
+"Garden Grove, CA",76.23
+"Oceanside, CA",76.02
+"Rancho Cucamonga, CA",75.95
+"Greensboro, NC",75.81
+"Santa Ana, CA",75.68
+"Casper, WY",75.66
+"Glendale, AZ",75.62
+"Missoula, MT",75.49
+"Oxnard, CA",75.29
+"Spokane, WA",75.18
+"Anaheim, CA",74.91
+"Newport News, VA",74.67
+"Grand Prairie, TX",74.53
+"Minneapolis, MN",74.52
+"Colorado Springs, CO",74.37
+"North Las Vegas, NV",74.29
+"Sacramento, CA",74.25
+"Jersey City, NJ",74.2
+"Cape Coral, FL",74.17
+"Pearl City, HI",74.11
+"Fontana, CA",74.1
+"Moreno Valley, CA",74.07
+"Portland, OR",73.98
+"Norfolk, VA",73.95
+"Ontario, CA",73.91
+"Corpus Christi, TX",73.83
+"Aurora, CO",73.63
+"Tampa, FL",73.56
+"Fayetteville, NC",73.53
+"Arlington, TX",73.51
+"Tallahassee, FL",73.47
+"Irving, TX",73.41
+"West Valley City, UT",73.38
+"Columbia, SC",73.38
+"El Paso, TX",73.34
+"Gulfport, MS",73.19
+"Juneau, AK",73.16
+"Newark, NJ",73.04
+"San Antonio, TX",73.01
+"New York, NY",72.96
+"Nampa, ID",72.91
+"Reno, NV",72.62
+"Augusta, GA",72.61
+"Nashville, TN",72.6
+"Des Moines, IA",72.34
+"St. Paul, MN",72.28
+"Columbus, GA",72.24
+"Fort Worth, TX",72.17
+"Hialeah, FL",72.01
+"Phoenix, AZ",71.89
+"Pittsburgh, PA",71.86
+"Austin, TX",71.65
+"San Francisco, CA",71.57
+"Modesto, CA",71.54
+"Chicago, IL",71.43
+"Louisville, KY",71.41
+"Toledo, OH",71.37
+"Long Beach, CA",71.36
+"Springfield, MO",71.35
+"Jacksonville, FL",71.29
+"Fresno, CA",71.19
+"Cincinnati, OH",71.08
+"Atlanta, GA",71.07
+"Riverside, CA",70.98
+"Richmond, VA",70.52
+"Akron, OH",70.41
+"Milwaukee, WI",70.4
+"Amarillo, TX",70.37
+"Billings, MT",70.35
+"Charleston, WV",70.26
+"Bakersfield, CA",70.18
+"Montgomery, AL",70.17
+"Fort Smith, AR",70.1
+"Seattle, WA",69.97
+"Wilmington, DE",69.89
+"Indianapolis, IN",69.85
+"Dover, DE",69.8
+"Rapid City, SD",69.74
+"Albuquerque, NM",69.48
+"Wichita, KS",69.31
+"Knoxville, TN",69.23
+"Miami, FL",69.08
+"Honolulu, HI",69.05
+"Mobile, AL",68.91
+"Lexington-Fayette, KY",68.79
+"Garland, TX",68.72
+"Tulsa, OK",68.02
+"Las Vegas, NV",67.7
+"Houston, TX",67.52
+"Shreveport, LA",67.45
+"Washington, DC",67.43
+"Huntsville, AL",67.36
+"Stockton, CA",67.36
+"Charleston, SC",67.14
+"Port St. Lucie, FL",67.13
+"Columbus, OH",67.08
+"Orlando, FL",66.64
+"Kansas City, MO",66.58
+"Tacoma, WA",66.29
+"Philadelphia, PA",66.23
+"Denver, CO",66.22
+"Tucson, AZ",66.19
+"Huntington, WV",66.18
+"New Orleans, LA",66.13
+"Baltimore, MD",65.26
+"Oakland, CA",64.78
+"Cleveland, OH",64.75
+"Dallas, TX",64.66
+"Los Angeles, CA",64.64
+"Little Rock, AR",64.35
+"Detroit, MI",63.55
+"Chattanooga, TN",63.13
+"Jackson, MS",63.07
+"Lubbock, TX",62.89
+"St. Petersburg, FL",62.64
+"Anchorage, AK",61.87
+"Birmingham, AL",61.33
+"Baton Rouge, LA",61.32
+"Memphis, TN",60.51
+"Oklahoma City, OK",58.54
+"San Bernardino, CA",58.02
+"Fort Lauderdale, FL",50.69
+"St. Louis, MO",47.64

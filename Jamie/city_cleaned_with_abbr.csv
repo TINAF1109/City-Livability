@@ -1,0 +1,101 @@
+city,state,state_abbr
+New York,New York,NY
+Los Angeles,California,CA
+Chicago,Illinois,IL
+Houston,Texas,TX
+Phoenix,Arizona,AZ
+Philadelphia,Pennsylvania,PA
+San Antonio,Texas,TX
+San Diego,California,CA
+Dallas,Texas,TX
+San Jose,California,CA
+Austin,Texas,TX
+Jacksonville,Florida,FL
+Fort Worth,Texas,TX
+Columbus,Ohio,OH
+Charlotte,North Carolina,NC
+San Francisco,California,CA
+Indianapolis,Indiana,IN
+Seattle,Washington,WA
+Denver,Colorado,CO
+Washington,District of Columbia,DC
+Boston,Massachusetts,MA
+El Paso,Texas,TX
+Nashville,Tennessee,TN
+Detroit,Michigan,MI
+Oklahoma City,Oklahoma,OK
+Portland,Oregon,OR
+Las Vegas,Nevada,NV
+Memphis,Tennessee,TN
+Louisville,Kentucky,KY
+Baltimore,Maryland,MD
+Milwaukee,Wisconsin,WI
+Albuquerque,New Mexico,NM
+Tucson,Arizona,AZ
+Fresno,California,CA
+Mesa,Arizona,AZ
+Sacramento,California,CA
+Atlanta,Georgia,GA
+Kansas City,Missouri,MO
+Colorado Springs,Colorado,CO
+Omaha,Nebraska,NE
+Raleigh,North Carolina,NC
+Miami,Florida,FL
+Long Beach,California,CA
+Virginia Beach,Virginia,VA
+Oakland,California,CA
+Minneapolis,Minnesota,MN
+Tulsa,Oklahoma,OK
+Tampa,Florida,FL
+Arlington,Texas,TX
+New Orleans,Louisiana,LA
+Wichita,Kansas,KS
+Bakersfield,California,CA
+Cleveland,Ohio,OH
+Aurora,Colorado,CO
+Anaheim,California,CA
+Honolulu,Hawaii,HI
+Santa Ana,California,CA
+Riverside,California,CA
+Corpus Christi,Texas,TX
+Lexington,Kentucky,KY
+Henderson,Nevada,NV
+Stockton,California,CA
+St. Paul,Minnesota,MN
+Cincinnati,Ohio,OH
+St. Louis,Missouri,MO
+Pittsburgh,Pennsylvania,PA
+Greensboro,North Carolina,NC
+Lincoln,Nebraska,NE
+Anchorage,Alaska,AK
+Plano,Texas,TX
+Orlando,Florida,FL
+Irvine,California,CA
+Newark,New Jersey,NJ
+Durham,North Carolina,NC
+Chula Vista,California,CA
+Toledo,Ohio,OH
+Fort Wayne,Indiana,IN
+St. Petersburg,Florida,FL
+Laredo,Texas,TX
+Jersey City,New Jersey,NJ
+Chandler,Arizona,AZ
+Madison,Wisconsin,WI
+Lubbock,Texas,TX
+Scottsdale,Arizona,AZ
+Reno,Nevada,NV
+Buffalo,New York,NY
+Gilbert town,Arizona,AZ
+Glendale,Arizona,AZ
+North Las Vegas,Nevada,NV
+Winston,North Carolina,NC
+Chesapeake,Virginia,VA
+Norfolk,Virginia,VA
+Fremont,California,CA
+Garland,Texas,TX
+Irving,Texas,TX
+Hialeah,Florida,FL
+Richmond,Virginia,VA
+Boise City,Idaho,ID
+Spokane,Washington,WA
+Baton Rouge,Louisiana,LA
